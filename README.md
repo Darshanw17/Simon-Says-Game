@@ -30,11 +30,12 @@ Each level gets harder — how far can you go?
 ---
 
 ## 📂 Folder Structure
-simon-says/
+simon-says-game/
 │
-├── index.html # Main game UI
-├── style.css # Styles and animations
-├── app.js # Game logic
+├── 📄 index.html              
+├── 📄 style.css               
+└── 📄 app.js              
+
 
 
 ---
